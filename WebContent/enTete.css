@@ -1,0 +1,57 @@
+#enTete {
+	background-color: green;
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+p{
+	color: white;
+}
+
+form{
+	background: transparent;
+}
+
+input{
+	opacity: 0.33;
+	color: white;
+	border: transparent;
+}
+
+button{
+	ba
+	color: white:
+	border: transparent;
+}
+
+#theme{
+	background-color: #84D41D;
+}
+
+#check{
+	display:flex;
+	justify-content: space-around;
+}
+h1{
+	display:flex;
+	justify-content: center;
+	color: white;
+}
+body{
+	font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+}
+#decouvrir{
+	text-align: center;
+}
+
+
+
+
+
+
+
+	
